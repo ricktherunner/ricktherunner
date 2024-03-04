@@ -1,4 +1,6 @@
-### Hi there 👋, i am Pedro Henrique!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Henrique;I'm+20+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👨🏽‍🎓 I'm a Data Science for Business undergraduate, at the Federal University of Paraíba, Brazil.
 - 👍 I'm a Artificial Inteligence and Business Intelligence enthusiast!
