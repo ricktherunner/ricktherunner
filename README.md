@@ -1,10 +1,10 @@
 ### Hi there 👋, i am Pedro Henrique!
 
 - 👨🏽‍🎓 I'm a Data Science for Business undergraduate, at the Federal University of Paraíba, Brazil.
-- 💻 I'm a Artificial Inteligence and Business Intelligence enthusiast!
-- 🔭 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality for the Brazilian Federal Government.
+- 👍 I'm a Artificial Inteligence and Business Intelligence enthusiast!
+- 💻 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality for the Brazilian Federal Government.
 - 🌱 I’m currently learning ETL, Docker, MongoDB, C++...
-- 👯 I’m looking to collaborate on more Artificial Intelligence Projects.
+- 🔭 I’m looking to collaborate on more Artificial Intelligence Projects.
 
 ##
 
